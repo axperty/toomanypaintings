@@ -1,7 +1,7 @@
-package com.axperty.somanypaintings;
+package com.axperty.toomanypaintings;
 
 
-import com.axperty.somanypaintings.painting.ModPaintings;
+import com.axperty.toomanypaintings.painting.ModPaintings;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.registry.RegistryKey;
@@ -11,8 +11,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 
-public class SoManyPaintings implements ModInitializer {
-    public static final String MODID = "somanypaintings";
+public class TooManyPaintings implements ModInitializer {
+    public static final String MODID = "toomanypaintings";
     public static final Logger LOGGER = LoggerFactory.getLogger(MODID);
     public static final RegistryKey<ItemGroup> GROUP = RegistryKey.of(RegistryKeys.ITEM_GROUP, new Identifier(MODID, "group"));
 
