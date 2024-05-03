@@ -59,6 +59,19 @@ public class ModPaintings {
     public static final PaintingVariant ZOMBIE = registerPainting("zombie", new PaintingVariant(16, 16));
     public static final PaintingVariant ZOMBIE_PIGMAN = registerPainting("zombie_pigman", new PaintingVariant(16, 16));
 
+    // New added paintings
+    // Version 1.0.1
+    public static final PaintingVariant LONELY_TREE = registerPainting("lonely_tree", new PaintingVariant(32, 32));
+    public static final PaintingVariant CHERRY_TREE = registerPainting("cherry_tree", new PaintingVariant(32, 32));
+    public static final PaintingVariant WATERFALL = registerPainting("waterfall", new PaintingVariant(32, 32));
+    public static final PaintingVariant CABIN = registerPainting("cabin", new PaintingVariant(32, 32));
+    public static final PaintingVariant FOREST = registerPainting("forest", new PaintingVariant(32, 32));
+    public static final PaintingVariant BLACK_CAT = registerPainting("black_cat", new PaintingVariant(16, 16));
+    public static final PaintingVariant PENGUINS = registerPainting("penguins", new PaintingVariant(32, 32));
+    public static final PaintingVariant RED_FLOWER = registerPainting("red_flower", new PaintingVariant(32, 32));
+    public static final PaintingVariant RIVER = registerPainting("river", new PaintingVariant(32, 32));
+    public static final PaintingVariant CASTLE = registerPainting("castle", new PaintingVariant(32, 32));
+
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
         return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
     }

@@ -1,27 +1,15 @@
-![Crate Delight Fabric Logo](https://cdn.modrinth.com/data/9rlXSyLg/images/437a3b050dccfc1a75399b495dcaced591f27a92.png)
-___
-**Upgrade your Farmer's Delight experience!** Forget chests and say hello to more food storage. Craft beautiful crates for your apples, berries, glowberries, and eggs.
+# Too Many Paintings!
 
-[Download on CurseForge](https://www.curseforge.com/minecraft/mc-mods/crate-delight) | [Download on Modrinth](https://modrinth.com/mod/crate-delight-fabric)
+<a href="https://www.curseforge.com/minecraft/mc-mods/too-many-paintings-forge-fabric"><img src="https://cf.way2muchnoise.eu/full_988773_downloads.svg" alt="Curseforge Downloads"></a>
+<a href="https://discord.gg/e2BQx4bbsU"><img alt="Discord" src="https://img.shields.io/discord/1194733791818821663?color=brightgreen&label=Discord"></a>
 
-🍎 **Make More Crates:**
+<img src="https://cdn.modrinth.com/data/T8Fpxcl7/images/b082e8bc447ae9e446948c356bbdedd7a2bea422.png">
+<hr>
 
-- Apple Crate
-- Berry Crate
-- Egg Crate
-- Glow Berry Crate
-- Golden Apple Crate
-- Cocoa Beans Bag
-- Sugar Bag
-- Salt Bag (available for Expanded Delight)
-- Ground Cinnamon Bag (available for Expanded Delight)
+### Overview
 
-🛠️ **Compatibility:**
+Too Many Paintings! is a Minecraft mod that adds more vanilla-styled paintings to the game, along with paintings from famous artists around the world.
 
-- **Expanded Delight:** Now you can create salt and cinnamon bags.
+### Features
 
-___
-**Additional Information:**
-
-- This project is based on [Expanded Delight](https://modrinth.com/mod/expanded-delight) by ianm1647.
-- Feel free to use this mod in your modpacks, please give credits.
+This mod adds more than fifty new and beautiful paintings to Minecraft, without changing anything from the game or adding custom items.

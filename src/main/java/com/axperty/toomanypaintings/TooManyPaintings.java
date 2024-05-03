@@ -3,11 +3,8 @@ package com.axperty.toomanypaintings;
 
 import com.axperty.toomanypaintings.painting.ModPaintings;
 import net.fabricmc.api.ModInitializer;
-import net.minecraft.item.ItemGroup;
-import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
 
 public class TooManyPaintings implements ModInitializer {
     public static final String MODID = "toomanypaintings";
@@ -15,6 +12,8 @@ public class TooManyPaintings implements ModInitializer {
 
     @Override
     public void onInitialize() {
+        System.out.println("[TooManyPaintings!]: Registering paintings...");
         ModPaintings.registerPaintings();
+        System.out.println("[TooManyPaintings!]: Paintings registered successfully!");
     }
 }
