@@ -7,7 +7,5 @@
 <h3>✨ What's New:</h3>
 <ul>
   <li>Added support for Minecraft 1.21.</li>
+  <li>Added 2 more paintings.</li>
 </ul>
-<hr/>
-
-<p>Your feedback is important to make improvements to this mod, submit your ideas on <a href="https://github.com/axperty/toomanypaintings-fabric/issues">GitHub.</a></p>

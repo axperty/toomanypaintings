@@ -1,5 +1,6 @@
 {
   "values": [
+    "minecraft:a_boat",
     "minecraft:afternoon",
     "minecraft:allay",
     "minecraft:american",
@@ -31,6 +32,7 @@
     "minecraft:night",
     "minecraft:pig",
     "minecraft:pillars",
+    "minecraft:pyramid",
     "minecraft:rain",
     "minecraft:ring",
     "minecraft:school",
