@@ -8,6 +8,3 @@
 <ul>
   <li>Added support for Minecraft 1.21.</li>
 </ul>
-<hr/>
-
-<p>Your feedback is important to make improvements to this mod, submit your ideas on <a href="https://github.com/axperty/toomanypaintings-fabric/issues">GitHub.</a></p>
