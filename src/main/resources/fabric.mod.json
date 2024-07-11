@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
   "id": "toomanypaintings",
-  "version": "1.0.1-1.20.6-fabric",
+  "version": "1.0.2-1.21-fabric",
   "name": "Too Many Paintings!",
-  "description": "A mod that adds even more beautiful paintings to the base game.",
+  "description": "A mod that adds even more beautiful paintings to the game.",
   "authors": [
     "Axperty"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/"
+    "homepage": "https://github.com/axperty/"
   },
   "license": "MIT",
-  "icon": "assets/toomanypaintings/logo.png",
+  "icon": "assets/minecraft/logo.png",
   "environment": "*",
 
   "depends": {
