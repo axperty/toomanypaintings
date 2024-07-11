@@ -13,16 +13,11 @@
   "license": "MIT",
   "icon": "assets/toomanypaintings/logo.png",
   "environment": "*",
-  "entrypoints": {
-    "main": [
-      "com.axperty.toomanypaintings.TooManyPaintings"
-    ]
-  },
 
   "depends": {
     "fabricloader": ">=0.14.21",
     "fabric": "*",
-    "minecraft": "~1.20",
-    "java": ">=17"
+    "minecraft": "~1.21",
+    "java": ">=21"
   }
 }
