@@ -72,6 +72,11 @@ public class ModPaintings {
     public static final PaintingVariant RIVER = registerPainting("river", new PaintingVariant(32, 32));
     public static final PaintingVariant CASTLE = registerPainting("castle", new PaintingVariant(32, 32));
 
+    // New added paintings
+    // Version 1.0.2
+    public static final PaintingVariant A_BOAT = registerPainting("a_boat", new PaintingVariant(32, 32));
+    public static final PaintingVariant PYRAMID = registerPainting("pyramid", new PaintingVariant(32, 32));
+
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
         return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
     }
