@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:axperty",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.axperty.title",
+    "fallback": "axperty.png"
+  },
   "height": 1,
   "width": 1
 }

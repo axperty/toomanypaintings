@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:cow",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.cow.title",
+    "fallback": "cow.png"
+  },
   "height": 1,
   "width": 1
 }

@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:starry_night",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.starry_night.title",
+    "fallback": "starry_night.png"
+  },
   "height": 1,
   "width": 2
 }

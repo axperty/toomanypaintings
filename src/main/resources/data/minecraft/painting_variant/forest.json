@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:forest",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.forest.title",
+    "fallback": "forest.png"
+  },
   "height": 2,
   "width": 2
 }

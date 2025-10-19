@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:enderman",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.enderman.title",
+    "fallback": "enderman.png"
+  },
   "height": 1,
   "width": 1
 }

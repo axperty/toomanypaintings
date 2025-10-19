@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:allay",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.allay.title",
+    "fallback": "allay.png"
+  },
   "height": 1,
   "width": 1
 }

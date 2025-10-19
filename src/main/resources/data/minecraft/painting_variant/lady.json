@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:lady",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.lady.title",
+    "fallback": "lady.png"
+  },
   "height": 2,
   "width": 1
 }

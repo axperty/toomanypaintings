@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:spider",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.spider.title",
+    "fallback": "spider.png"
+  },
   "height": 1,
   "width": 1
 }

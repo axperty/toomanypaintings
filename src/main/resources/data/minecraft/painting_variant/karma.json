@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:karma",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.karma.title",
+    "fallback": "karma.png"
+  },
   "height": 1,
   "width": 1
 }

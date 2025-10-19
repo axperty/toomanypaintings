@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:skeleton",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.skeleton.title",
+    "fallback": "skeleton.png"
+  },
   "height": 1,
   "width": 1
 }

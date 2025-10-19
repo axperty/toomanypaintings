@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:afternoon",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.afternoon.title",
+    "fallback": "afternoon.png"
+  },
   "height": 2,
   "width": 2
 }

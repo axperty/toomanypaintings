@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:bee",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.bee.title",
+    "fallback": "bee.png"
+  },
   "height": 1,
   "width": 1
 }

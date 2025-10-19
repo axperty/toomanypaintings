@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:black_cat",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.black_bat.title",
+    "fallback": "black_cat.png"
+  },
   "height": 1,
   "width": 1
 }

@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:zombie",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.zombie.title",
+    "fallback": "zombie.png"
+  },
   "height": 1,
   "width": 1
 }

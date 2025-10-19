@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:villager",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.villager.title",
+    "fallback": "villager.png"
+  },
   "height": 1,
   "width": 1
 }

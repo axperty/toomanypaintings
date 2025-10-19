@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:lovers",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.lovers.title",
+    "fallback": "lovers.png"
+  },
   "height": 2,
   "width": 2
 }

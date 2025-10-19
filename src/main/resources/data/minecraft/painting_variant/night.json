@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:night",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.night.title",
+    "fallback": "night.png"
+  },
   "height": 1,
   "width": 2
 }

@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:beach",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.beach.title",
+    "fallback": "beach.png"
+  },
   "height": 2,
   "width": 2
 }

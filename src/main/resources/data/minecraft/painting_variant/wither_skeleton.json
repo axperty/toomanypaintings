@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:wither_skeleton",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.wither_skeleton.title",
+    "fallback": "wither_skeleton.png"
+  },
   "height": 1,
   "width": 1
 }

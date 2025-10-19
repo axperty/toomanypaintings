@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:rain",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.rain.title",
+    "fallback": "rain.png"
+  },
   "height": 2,
   "width": 1
 }

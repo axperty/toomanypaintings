@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:lonely_tree",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.lonely_tree.title",
+    "fallback": "lonely_tree.png"
+  },
   "height": 2,
   "width": 2
 }

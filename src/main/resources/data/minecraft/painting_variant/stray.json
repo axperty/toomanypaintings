@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:stray",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.stray.title",
+    "fallback": "stray.png"
+  },
   "height": 1,
   "width": 1
 }

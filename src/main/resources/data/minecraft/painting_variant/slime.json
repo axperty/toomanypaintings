@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:slime",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.slime.title",
+    "fallback": "slime.png"
+  },
   "height": 1,
   "width": 1
 }

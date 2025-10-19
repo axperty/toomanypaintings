@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:pig",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.pig.title",
+    "fallback": "pig.png"
+  },
   "height": 1,
   "width": 1
 }

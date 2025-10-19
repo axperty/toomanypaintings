@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:son",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.son.title",
+    "fallback": "son.png"
+  },
   "height": 2,
   "width": 1
 }

@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:lisa",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.lisa.title",
+    "fallback": "lisa.png"
+  },
   "height": 2,
   "width": 1
 }

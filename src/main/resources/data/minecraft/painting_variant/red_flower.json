@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:red_flower",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.red_flower.title",
+    "fallback": "red_flower.png"
+  },
   "height": 2,
   "width": 2
 }

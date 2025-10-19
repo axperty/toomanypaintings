@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:wave",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.wave.title",
+    "fallback": "wave.png"
+  },
   "height": 1,
   "width": 2
 }

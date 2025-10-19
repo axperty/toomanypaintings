@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:ateneah",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.ateneah.title",
+    "fallback": "ateneah.png"
+  },
   "height": 1,
   "width": 1
 }

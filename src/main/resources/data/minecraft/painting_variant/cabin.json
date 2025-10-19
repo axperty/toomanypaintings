@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:cabin",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.cabin.title",
+    "fallback": "cabin.png"
+  },
   "height": 2,
   "width": 2
 }

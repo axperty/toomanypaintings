@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:federico",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.federico.title",
+    "fallback": "federico.png"
+  },
   "height": 2,
   "width": 2
 }

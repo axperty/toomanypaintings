@@ -1,5 +1,10 @@
 {
   "asset_id": "minecraft:renibond",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.renibond.title",
+    "fallback": "renibond.png"
+  },
   "height": 1,
   "width": 1
 }
