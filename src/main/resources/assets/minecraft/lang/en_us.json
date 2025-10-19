@@ -1,7 +1,4 @@
 {
-  "painting.minecraft.a_boat.title": "A Boat",
-  "painting.minecraft.a_boat.author": "Too Many Paintings!",
-
   "painting.minecraft.afternoon.title": "Afternoon",
   "painting.minecraft.afternoon.author": "Too Many Paintings!",
 
@@ -95,9 +92,6 @@
   "painting.minecraft.pillars.title": "Pillars",
   "painting.minecraft.pillars.author": "Too Many Paintings!",
 
-  "painting.minecraft.pyramid.title": "Pyramid",
-  "painting.minecraft.pyramid.author": "Too Many Paintings!",
-
   "painting.minecraft.rain.title": "Rain",
   "painting.minecraft.rain.author": "Too Many Paintings!",
 
@@ -186,5 +180,23 @@
   "painting.minecraft.river.author": "Too Many Paintings!",
 
   "painting.minecraft.castle.title": "Castle",
-  "painting.minecraft.castle.author": "Too Many Paintings!"
+  "painting.minecraft.castle.author": "Too Many Paintings!",
+
+  "painting.minecraft.a_boat.title": "A Boat",
+  "painting.minecraft.a_boat.author": "Too Many Paintings!",
+
+  "painting.minecraft.pyramid.title": "Pyramid",
+  "painting.minecraft.pyramid.author": "Too Many Paintings!",
+
+  "painting.minecraft.renibond.title": "renibond",
+  "painting.minecraft.renibond.author": "Too Many Paintings!",
+
+  "painting.minecraft.takeamuke.title": "takeamuke",
+  "painting.minecraft.takeamuke.author": "Too Many Paintings!",
+
+  "painting.minecraft.karma.title": "KarmaTTT",
+  "painting.minecraft.karma.author": "Too Many Paintings!",
+
+  "painting.minecraft.federico.title": "Federico",
+  "painting.minecraft.federico.author": "Too Many Paintings!"
 }
