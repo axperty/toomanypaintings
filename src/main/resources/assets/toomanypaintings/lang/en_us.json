@@ -1,7 +1,4 @@
 {
-  "painting.toomanypaintings.a_boat.title": "A Boat",
-  "painting.toomanypaintings.a_boat.author": "Too Many Paintings!",
-
   "painting.toomanypaintings.afternoon.title": "Afternoon",
   "painting.toomanypaintings.afternoon.author": "Too Many Paintings!",
 
@@ -95,9 +92,6 @@
   "painting.toomanypaintings.pillars.title": "Pillars",
   "painting.toomanypaintings.pillars.author": "Too Many Paintings!",
 
-  "painting.toomanypaintings.pyramid.title": "Pyramid",
-  "painting.toomanypaintings.pyramid.author": "Too Many Paintings!",
-
   "painting.toomanypaintings.rain.title": "Rain",
   "painting.toomanypaintings.rain.author": "Too Many Paintings!",
 
@@ -186,5 +180,23 @@
   "painting.toomanypaintings.river.author": "Too Many Paintings!",
 
   "painting.toomanypaintings.castle.title": "Castle",
-  "painting.toomanypaintings.castle.author": "Too Many Paintings!"
+  "painting.toomanypaintings.castle.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.a_boat.title": "A Boat",
+  "painting.toomanypaintings.a_boat.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.pyramid.title": "Pyramid",
+  "painting.toomanypaintings.pyramid.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.renibond.title": "renibond",
+  "painting.toomanypaintings.renibond.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.takeamuke.title": "takeamuke",
+  "painting.toomanypaintings.takeamuke.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.karma.title": "KarmaTTT",
+  "painting.toomanypaintings.karma.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.federico.title": "Federico",
+  "painting.toomanypaintings.federico.author": "Too Many Paintings!"
 }
