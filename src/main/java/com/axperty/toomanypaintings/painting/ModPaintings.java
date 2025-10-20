@@ -74,6 +74,11 @@ public class ModPaintings {
     public static final PaintingVariant KARMA = registerPainting("karma", new PaintingVariant(16, 16));
     public static final PaintingVariant FEDERICO = registerPainting("federico", new PaintingVariant(32, 32));
 
+    // New added paintings
+    public static final PaintingVariant FRIDA = registerPainting("frida", new PaintingVariant(16, 32));
+    public static final PaintingVariant GALAXY = registerPainting("galaxy", new PaintingVariant(32, 32));
+    public static final PaintingVariant MOUNTAINS = registerPainting("mountains", new PaintingVariant(32, 16));
+
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
         return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
     }
