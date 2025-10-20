@@ -1,0 +1,10 @@
+{
+  "asset_id": "minecraft:frida",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.frida.title",
+    "fallback": "frida.png"
+  },
+  "height": 2,
+  "width": 1
+}

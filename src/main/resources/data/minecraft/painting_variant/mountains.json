@@ -1,0 +1,10 @@
+{
+  "asset_id": "minecraft:mountains",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.mountains.title",
+    "fallback": "mountains.png"
+  },
+  "height": 1,
+  "width": 2
+}

@@ -1,0 +1,10 @@
+{
+  "asset_id": "minecraft:galaxy",
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.galaxy.title",
+    "fallback": "galaxy.png"
+  },
+  "height": 2,
+  "width": 2
+}
