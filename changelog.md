@@ -4,15 +4,10 @@
 
 ### ✨ What's New:
 
-- Added skin paintings from renibond, takeamuke, KarmaTTT, and Federico (takeamuke's cat).
-- Paintings have been enhanced and improved.
-
-### 🛠️ Minor Changes:
-
-- Removed "Cornfield", Cherry Mountains", "Frida", "Galaxy", "House", "Landscape", and "Mountains" paintings.
+- Due to popular demand, "Frida", "Galaxy", and "Mountains" paintings were added back, which have also been enhanced and improved.
 
 ***
 
 ### ❤️ Support:
 
-- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via PayPal](https://paypal.me/kevgelhorn).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via Feed the Kitty](https://axperty.netlify.app/).
