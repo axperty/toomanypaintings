@@ -2,9 +2,10 @@
 
 ***
 
-### ✨ What's New:
+### 🛠️ Bug Fixes:
 
-- Due to popular demand, "Frida", "Galaxy", and "Mountains" paintings were added back, which have also been enhanced and improved.
+- Fixed a bug where Too Many Paintings! caused Minecraft to crash at launch with the following message: 
+```Mod 'Too Many Paintings!' (toomanypaintings) 25.10.20-1.20-fabric requires version 21 or later of 'OpenJDK 64-Bit Server VM' (java), but only the wrong version is present: 17!```, thanks, Zparax!
 
 ***
 

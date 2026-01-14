@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "toomanypaintings",
-  "version": "25.10.20-1.20-fabric",
+  "version": "26.01.14-1.20-fabric",
   "name": "Too Many Paintings!",
   "description": "A mod that adds even more beautiful paintings to the base game.",
   "authors": [
@@ -20,9 +20,9 @@
   },
 
   "depends": {
-    "fabricloader": ">=0.17.3",
-    "minecraft": "~1.20",
-    "java": ">=21",
-    "fabric-api": "*"
+    "fabricloader": ">=0.14.21",
+    "fabric": "*",
+    "minecraft": ">=1.20",
+    "java": ">=17"
   }
 }
