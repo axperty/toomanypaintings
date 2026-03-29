@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:cherry_tree",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.cherry_tree.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.cherry_tree.title"
+  },
   "width": 2
 }

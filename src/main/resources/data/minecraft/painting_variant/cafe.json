@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:cafe",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.cafe.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.cafe.title"
+  },
   "width": 1
 }

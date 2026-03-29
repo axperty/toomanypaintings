@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:lovers",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.lovers.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.lovers.title"
+  },
   "width": 2
 }

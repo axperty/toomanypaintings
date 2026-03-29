@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:squares",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.squares.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.squares.title"
+  },
   "width": 2
 }

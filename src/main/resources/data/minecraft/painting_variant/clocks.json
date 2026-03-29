@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:clocks",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.clocks.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.clocks.title"
+  },
   "width": 2
 }

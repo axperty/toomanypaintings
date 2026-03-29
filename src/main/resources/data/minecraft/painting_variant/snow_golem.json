@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:snow_golem",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.snow_golem.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.snow_golem.title"
+  },
   "width": 1
 }

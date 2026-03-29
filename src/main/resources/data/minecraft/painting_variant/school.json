@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:school",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.school.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.school.title"
+  },
   "width": 2
 }

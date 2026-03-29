@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:beach",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.beach.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.beach.title"
+  },
   "width": 2
 }

@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:rain",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.rain.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.rain.title"
+  },
   "width": 1
 }

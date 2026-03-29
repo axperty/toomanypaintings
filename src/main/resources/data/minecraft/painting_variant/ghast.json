@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:ghast",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.ghast.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.ghast.title"
+  },
   "width": 1
 }

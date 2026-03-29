@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:cabin",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.cabin.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.cabin.title"
+  },
   "width": 2
 }

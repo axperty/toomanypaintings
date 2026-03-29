@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:lady",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.lady.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.lady.title"
+  },
   "width": 1
 }

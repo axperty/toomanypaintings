@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:forest",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.forest.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.forest.title"
+  },
   "width": 2
 }

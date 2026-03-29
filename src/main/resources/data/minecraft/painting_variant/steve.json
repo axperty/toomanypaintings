@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:steve",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.steve.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.steve.title"
+  },
   "width": 1
 }

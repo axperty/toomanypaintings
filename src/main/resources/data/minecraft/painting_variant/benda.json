@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:benda",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.benda.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.benda.title"
+  },
   "width": 1
 }

@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:black_cat",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.black_cat.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.black_cat.title"
+  },
   "width": 1
 }

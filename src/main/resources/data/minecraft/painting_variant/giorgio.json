@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:giorgio",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.giorgio.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.giorgio.title"
+  },
   "width": 2
 }

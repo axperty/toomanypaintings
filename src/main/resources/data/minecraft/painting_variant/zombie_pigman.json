@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:zombie_pigman",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.zombie_pigman.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.zombie_pigman.title"
+  },
   "width": 1
 }

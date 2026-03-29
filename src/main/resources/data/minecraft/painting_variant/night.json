@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:night",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.night.author"
+  },
   "height": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.night.title"
+  },
   "width": 2
 }

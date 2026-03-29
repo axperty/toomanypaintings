@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:waterfall",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.waterfall.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.waterfall.title"
+  },
   "width": 2
 }

@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:river",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.river.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.river.title"
+  },
   "width": 2
 }

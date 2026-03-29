@@ -4,12 +4,7 @@
 
 ### ✨ What's New:
 
-- Added skin paintings from renibond, takeamuke, KarmaTTT, and Federico (takeamuke's cat).
-- Paintings have been enhanced and improved.
-
-### 🛠️ Minor Changes:
-
-- Removed "Cornfield", Cherry Mountains", "Frida", "Galaxy", "House", "Landscape", and "Mountains" paintings.
+- Added support for Minecraft 26.1.
 
 ***
 

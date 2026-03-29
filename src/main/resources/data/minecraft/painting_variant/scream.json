@@ -1,5 +1,13 @@
 {
   "asset_id": "minecraft:scream",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.scream.author"
+  },
   "height": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.scream.title"
+  },
   "width": 2
 }
