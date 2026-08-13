@@ -12,8 +12,7 @@ public class TooManyPaintings implements ModInitializer {
 
     @Override
     public void onInitialize() {
-        System.out.println("[TooManyPaintings!]: Registering paintings...");
         ModPaintings.registerPaintings();
-        System.out.println("[TooManyPaintings!]: Paintings registered successfully!");
+        System.out.println("Too Many Paintings! loaded");
     }
 }

@@ -53,22 +53,6 @@ public class ModPaintings {
     public static final PaintingVariant ZOMBIE_PIGMAN = registerPainting("zombie_pigman", new PaintingVariant(16, 16));
 
     // New added paintings
-    public static final PaintingVariant LONELY_TREE = registerPainting("lonely_tree", new PaintingVariant(32, 32));
-    public static final PaintingVariant CHERRY_TREE = registerPainting("cherry_tree", new PaintingVariant(32, 32));
-    public static final PaintingVariant WATERFALL = registerPainting("waterfall", new PaintingVariant(32, 32));
-    public static final PaintingVariant CABIN = registerPainting("cabin", new PaintingVariant(32, 32));
-    public static final PaintingVariant FOREST = registerPainting("forest", new PaintingVariant(32, 32));
-    public static final PaintingVariant BLACK_CAT = registerPainting("black_cat", new PaintingVariant(16, 16));
-    public static final PaintingVariant PENGUINS = registerPainting("penguins", new PaintingVariant(32, 32));
-    public static final PaintingVariant RED_FLOWER = registerPainting("red_flower", new PaintingVariant(32, 32));
-    public static final PaintingVariant RIVER = registerPainting("river", new PaintingVariant(32, 32));
-    public static final PaintingVariant CASTLE = registerPainting("castle", new PaintingVariant(32, 32));
-
-    // New added paintings
-    public static final PaintingVariant A_BOAT = registerPainting("a_boat", new PaintingVariant(32, 32));
-    public static final PaintingVariant PYRAMID = registerPainting("pyramid", new PaintingVariant(32, 32));
-
-    // New added paintings
     public static final PaintingVariant RENIBOND = registerPainting("renibond", new PaintingVariant(16, 16));
     public static final PaintingVariant TAKEAMUKE = registerPainting("takeamuke", new PaintingVariant(16, 16));
     public static final PaintingVariant KARMA = registerPainting("karma", new PaintingVariant(16, 16));
@@ -76,8 +60,25 @@ public class ModPaintings {
 
     // New added paintings
     public static final PaintingVariant FRIDA = registerPainting("frida", new PaintingVariant(16, 32));
-    public static final PaintingVariant GALAXY = registerPainting("galaxy", new PaintingVariant(32, 32));
-    public static final PaintingVariant MOUNTAINS = registerPainting("mountains", new PaintingVariant(32, 16));
+
+    // New added paintings
+    public static final PaintingVariant ANCIENT_DAYS = registerPainting("ancient_days", new PaintingVariant(16, 32));
+    public static final PaintingVariant ARTHEMIS = registerPainting("arthemis", new PaintingVariant(32, 32));
+    public static final PaintingVariant AUTOMAT = registerPainting("automat", new PaintingVariant(32, 16));
+    public static final PaintingVariant BALCONY = registerPainting("balcony", new PaintingVariant(32, 32));
+    public static final PaintingVariant DESPERATE = registerPainting("desperate", new PaintingVariant(16, 16));
+    public static final PaintingVariant EARTH_RISE = registerPainting("earth_rise", new PaintingVariant(32, 32));
+    public static final PaintingVariant FALSE_MIRROR = registerPainting("false_mirror", new PaintingVariant(32, 16));
+    public static final PaintingVariant GARDEN = registerPainting("garden", new PaintingVariant(32, 32));
+    public static final PaintingVariant MENINAS = registerPainting("meninas", new PaintingVariant(32, 32));
+    public static final PaintingVariant MILKMAID = registerPainting("milkmaid", new PaintingVariant(32, 32));
+    public static final PaintingVariant MORNING = registerPainting("morning", new PaintingVariant(16, 16));
+    public static final PaintingVariant NARCISSUS = registerPainting("narcissus", new PaintingVariant(32, 32));
+    public static final PaintingVariant NOT_REPRODUCED = registerPainting("not_reproduced", new PaintingVariant(16, 32));
+    public static final PaintingVariant PIAZZA = registerPainting("piazza", new PaintingVariant(32, 32));
+    public static final PaintingVariant RIDER = registerPainting("rider", new PaintingVariant(16, 16));
+    public static final PaintingVariant SELF_PORTRAIT = registerPainting("self_portrait", new PaintingVariant(32, 32));
+    public static final PaintingVariant SWING = registerPainting("swing", new PaintingVariant(16, 32));
 
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
         return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);

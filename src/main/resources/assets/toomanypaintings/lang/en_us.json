@@ -14,9 +14,6 @@
   "painting.toomanypaintings.axperty.title": "Axperty",
   "painting.toomanypaintings.axperty.author": "Too Many Paintings!",
 
-  "painting.toomanypaintings.beach.title": "Beach",
-  "painting.toomanypaintings.beach.author": "Too Many Paintings!",
-
   "painting.toomanypaintings.bee.title": "Bee",
   "painting.toomanypaintings.bee.author": "Too Many Paintings!",
 
@@ -25,9 +22,6 @@
 
   "painting.toomanypaintings.cafe.title": "Cafe",
   "painting.toomanypaintings.cafe.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.cherry_mountains.title": "Cherry Mountains",
-  "painting.toomanypaintings.cherry_mountains.author": "Too Many Paintings!",
 
   "painting.toomanypaintings.clocks.title": "Clocks",
   "painting.toomanypaintings.clocks.author": "Too Many Paintings!",
@@ -56,9 +50,6 @@
   "painting.toomanypaintings.frida.title": "Frida",
   "painting.toomanypaintings.frida.author": "Too Many Paintings!",
 
-  "painting.toomanypaintings.galaxy.title": "Galaxy",
-  "painting.toomanypaintings.galaxy.author": "Too Many Paintings!",
-
   "painting.toomanypaintings.ghast.title": "Ghast",
   "painting.toomanypaintings.ghast.author": "Too Many Paintings!",
 
@@ -79,9 +70,6 @@
 
   "painting.toomanypaintings.lovers.title": "Lovers",
   "painting.toomanypaintings.lovers.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.mountains.title": "Mountains",
-  "painting.toomanypaintings.mountains.author": "Too Many Paintings!",
 
   "painting.toomanypaintings.night.title": "Night",
   "painting.toomanypaintings.night.author": "Too Many Paintings!",
@@ -152,42 +140,6 @@
   "painting.toomanypaintings.zombie_pigman.title": "Zombie Pigman",
   "painting.toomanypaintings.zombie_pigman.author": "Too Many Paintings!",
 
-  "painting.toomanypaintings.lonely_tree.title": "Lonely Tree",
-  "painting.toomanypaintings.lonely_tree.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.cherry_tree.title": "Cherry Tree",
-  "painting.toomanypaintings.cherry_tree.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.waterfall.title": "Waterfall",
-  "painting.toomanypaintings.waterfall.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.cabin.title": "Cabin",
-  "painting.toomanypaintings.cabin.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.forest.title": "Forest",
-  "painting.toomanypaintings.forest.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.black_cat.title": "Black Cat",
-  "painting.toomanypaintings.black_cat.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.penguins.title": "Penguins",
-  "painting.toomanypaintings.penguins.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.red_flower.title": "Red Flower",
-  "painting.toomanypaintings.red_flower.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.river.title": "River",
-  "painting.toomanypaintings.river.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.castle.title": "Castle",
-  "painting.toomanypaintings.castle.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.a_boat.title": "A Boat",
-  "painting.toomanypaintings.a_boat.author": "Too Many Paintings!",
-
-  "painting.toomanypaintings.pyramid.title": "Pyramid",
-  "painting.toomanypaintings.pyramid.author": "Too Many Paintings!",
-
   "painting.toomanypaintings.renibond.title": "renibond",
   "painting.toomanypaintings.renibond.author": "Too Many Paintings!",
 
@@ -198,5 +150,56 @@
   "painting.toomanypaintings.karma.author": "Too Many Paintings!",
 
   "painting.toomanypaintings.federico.title": "Federico",
-  "painting.toomanypaintings.federico.author": "Too Many Paintings!"
+  "painting.toomanypaintings.federico.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.ancient_days.title": "Ancient Days",
+  "painting.toomanypaintings.ancient_days.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.arthemis.title": "Arthemis II",
+  "painting.toomanypaintings.arthemis.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.automat.title": "Automat",
+  "painting.toomanypaintings.automat.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.balcony.title": "Balcony",
+  "painting.toomanypaintings.balcony.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.desperate.title": "Desperate",
+  "painting.toomanypaintings.desperate.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.earth_rise.title": "Earth Rise",
+  "painting.toomanypaintings.earth_rise.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.false_mirror.title": "False Mirror",
+  "painting.toomanypaintings.false_mirror.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.garden.title": "Garden",
+  "painting.toomanypaintings.garden.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.meninas.title": "Meninas",
+  "painting.toomanypaintings.meninas.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.milkmaid.title": "Milkmaid",
+  "painting.toomanypaintings.milkmaid.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.morning.title": "Morning",
+  "painting.toomanypaintings.morning.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.narcissus.title": "Narcissus",
+  "painting.toomanypaintings.narcissus.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.not_reproduced.title": "Not Reproduced",
+  "painting.toomanypaintings.not_reproduced.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.piazza.title": "Piazza",
+  "painting.toomanypaintings.piazza.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.rider.title": "Rider",
+  "painting.toomanypaintings.rider.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.self_portrait.title": "Self Portrait",
+  "painting.toomanypaintings.self_portrait.author": "Too Many Paintings!",
+
+  "painting.toomanypaintings.swing.title": "Swing",
+  "painting.toomanypaintings.swing.author": "Too Many Paintings!"
 }

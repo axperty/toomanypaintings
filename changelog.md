@@ -2,13 +2,51 @@
 
 ***
 
-### 🛠️ Bug Fixes:
+### ✨ What's New:
 
-- Fixed a bug where Too Many Paintings! caused Minecraft to crash at launch with the following message: 
-```Mod 'Too Many Paintings!' (toomanypaintings) 25.10.20-1.20-fabric requires version 21 or later of 'OpenJDK 64-Bit Server VM' (java), but only the wrong version is present: 17!```, thanks, Zparax!
+- The following new paintings have been added:
+    - Ancient Days
+    - Arthemis II
+    - Automat
+    - Balcony
+    - Desperate
+    - Earth Rise
+    - False Mirror
+    - Garden
+    - Meninas
+    - Milkmaid
+    - Morning
+    - Narcissus
+    - Not Reproduced
+    - Piazza
+    - Rider
+    - Self Portrait
+    - Swing
+
+- Changed Pillars painting with an old image that looks even better.
+
+### 🛠️ Other Changes:
+
+Paintings that were partially created using artificial intelligence tools are now removed. This mod will not include any artificially generated painting in the future.
+
+- A Boat
+- Beach
+- Black Cat
+- Cabin
+- Castle
+- Cherry Tree
+- Forest
+- Galaxy
+- Lonely Tree
+- Mountains
+- Penguins
+- Pyramid
+- Red Flower
+- River
+- Waterfall
 
 ***
 
 ### ❤️ Support:
 
-- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via Feed the Kitty](https://axperty.netlify.app/).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via PayPal](https://paypal.me/kevgelhorn).
