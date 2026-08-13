@@ -4,15 +4,49 @@
 
 ### ✨ What's New:
 
-- Added skin paintings from renibond, takeamuke, KarmaTTT, and Federico (takeamuke's cat).
-- Paintings have been enhanced and improved.
+- The following new paintings have been added:
+    - Ancient Days
+    - Arthemis II
+    - Automat
+    - Balcony
+    - Desperate
+    - Earth Rise
+    - False Mirror
+    - Garden
+    - Meninas
+    - Milkmaid
+    - Morning
+    - Narcissus
+    - Not Reproduced
+    - Piazza
+    - Rider
+    - Self Portrait
+    - Swing
 
-### 🛠️ Minor Changes:
+- Changed Pillars painting with an old image that looks even better.
 
-- Removed "Cornfield", Cherry Mountains", "Frida", "Galaxy", "House", "Landscape", and "Mountains" paintings.
+### 🛠️ Other Changes:
+
+Paintings that were partially created using artificial intelligence tools are now removed. This mod will not include any artificially generated painting in the future.
+
+- A Boat
+- Beach
+- Black Cat
+- Cabin
+- Castle
+- Cherry Tree
+- Forest
+- Galaxy
+- Lonely Tree
+- Mountains
+- Penguins
+- Pyramid
+- Red Flower
+- River
+- Waterfall
 
 ***
 
 ### ❤️ Support:
 
-- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via PayPal](https://paypal.me/kevgelhorn).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via Feed the Kitty](https://axperty.netlify.app/).
