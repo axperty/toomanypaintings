@@ -1,23 +1,22 @@
 {
   "schemaVersion": 1,
-  "id": "toomanypaintings",
-  "version": "25.10.20-1.21.2-fabric",
-  "name": "Too Many Paintings!",
-  "description": "A mod that adds even more beautiful paintings to the game.",
+  "id": "${mod_id}",
+  "version": "${mod_version}",
+  "name": "${mod_name}",
+  "description": "${mod_description}",
   "authors": [
-    "Axperty"
+    "${mod_authors}"
   ],
   "contact": {
     "homepage": "https://github.com/axperty/"
   },
-  "license": "MIT",
+  "license": "ARR",
   "icon": "assets/minecraft/logo.png",
   "environment": "*",
-
   "depends": {
     "fabricloader": ">=0.14.21",
     "fabric": "*",
-    "minecraft": "~1.21",
+    "minecraft": ["=1.21.2", "=1.21.3", "=1.21.4", "=1.21.5", "=1.21.6", "=1.21.7", "=1.21.8", "=1.21.9", "=1.21.10", "=1.21.11"],
     "java": ">=21"
   }
 }

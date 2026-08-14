@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:slime",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.slime.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.slime.title",

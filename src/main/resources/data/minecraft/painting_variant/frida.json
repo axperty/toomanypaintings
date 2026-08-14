@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:frida",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.frida.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.frida.title",

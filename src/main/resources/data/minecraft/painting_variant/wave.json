@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:wave",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.wave.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.wave.title",

@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:villager",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.villager.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.villager.title",

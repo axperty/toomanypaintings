@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:stray",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.stray.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.stray.title",

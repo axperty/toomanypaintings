@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:ring",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.ring.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.ring.title",

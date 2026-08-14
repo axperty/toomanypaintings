@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:self_portrait",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.self_portrait.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.self_portrait.title",
+    "fallback": "self_portrait.png"
+  },
+  "height": 2,
+  "width": 2
+}

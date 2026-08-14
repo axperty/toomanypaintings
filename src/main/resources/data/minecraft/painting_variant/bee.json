@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:bee",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.bee.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.bee.title",

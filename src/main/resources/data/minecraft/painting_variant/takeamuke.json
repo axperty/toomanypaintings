@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:takeamuke",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.takeamuke.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.takeamuke.title",

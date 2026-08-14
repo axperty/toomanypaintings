@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:renibond",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.renibond.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.renibond.title",

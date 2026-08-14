@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:sheep",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.sheep.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.sheep.title",

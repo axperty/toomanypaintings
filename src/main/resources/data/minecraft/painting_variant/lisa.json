@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:lisa",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.lisa.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.lisa.title",

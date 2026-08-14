@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:creation",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.creation.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.creation.title",

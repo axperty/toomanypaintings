@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:spider",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.spider.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.spider.title",

@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:pig",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.pig.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.pig.title",

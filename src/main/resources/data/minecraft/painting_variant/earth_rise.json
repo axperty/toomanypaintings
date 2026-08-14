@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:earth_rise",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.earth_rise.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.earth_rise.title",
+    "fallback": "earth_rise.png"
+  },
+  "height": 2,
+  "width": 2
+}

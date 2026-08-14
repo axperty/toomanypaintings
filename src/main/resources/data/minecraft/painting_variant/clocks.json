@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:clocks",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.clocks.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.clocks.title",

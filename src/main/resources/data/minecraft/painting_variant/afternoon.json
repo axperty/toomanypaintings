@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:afternoon",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.afternoon.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.afternoon.title",

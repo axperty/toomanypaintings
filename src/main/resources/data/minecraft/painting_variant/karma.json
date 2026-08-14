@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:karma",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.karma.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.karma.title",

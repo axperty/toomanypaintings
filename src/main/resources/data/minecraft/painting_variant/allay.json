@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:allay",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.allay.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.allay.title",

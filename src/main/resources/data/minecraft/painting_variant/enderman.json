@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:enderman",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.enderman.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.enderman.title",

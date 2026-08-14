@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:drowned",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.drowned.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.drowned.title",

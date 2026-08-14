@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:wheat_field",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.wheat_field.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.wheat_field.title",

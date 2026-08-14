@@ -1,5 +1,9 @@
 {
   "asset_id": "minecraft:american",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.american.author"
+  },
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.american.title",
