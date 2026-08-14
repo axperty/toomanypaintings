@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.wave.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.wave.title"
+    "translate": "painting.minecraft.wave.title",
+    "fallback": "wave.png"
   },
+  "height": 1,
   "width": 2
 }

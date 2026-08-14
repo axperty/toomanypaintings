@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.lisa.author"
   },
-  "height": 2,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.lisa.title"
+    "translate": "painting.minecraft.lisa.title",
+    "fallback": "lisa.png"
   },
+  "height": 2,
   "width": 1
 }

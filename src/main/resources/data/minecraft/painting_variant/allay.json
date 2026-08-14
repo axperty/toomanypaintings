@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.allay.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.allay.title"
+    "translate": "painting.minecraft.allay.title",
+    "fallback": "allay.png"
   },
+  "height": 1,
   "width": 1
 }

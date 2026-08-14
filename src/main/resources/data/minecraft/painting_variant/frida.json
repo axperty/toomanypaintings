@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.frida.author"
   },
-  "height": 2,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.frida.title"
+    "translate": "painting.minecraft.frida.title",
+    "fallback": "frida.png"
   },
+  "height": 2,
   "width": 1
 }

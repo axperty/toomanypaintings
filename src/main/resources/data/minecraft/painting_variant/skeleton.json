@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.skeleton.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.skeleton.title"
+    "translate": "painting.minecraft.skeleton.title",
+    "fallback": "skeleton.png"
   },
+  "height": 1,
   "width": 1
 }

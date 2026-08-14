@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.rain.author"
   },
-  "height": 2,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.rain.title"
+    "translate": "painting.minecraft.rain.title",
+    "fallback": "rain.png"
   },
+  "height": 2,
   "width": 1
 }

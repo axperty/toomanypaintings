@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.squares.author"
   },
-  "height": 2,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.squares.title"
+    "translate": "painting.minecraft.squares.title",
+    "fallback": "squares.png"
   },
+  "height": 2,
   "width": 2
 }

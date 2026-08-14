@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.afternoon.author"
   },
-  "height": 2,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.afternoon.title"
+    "translate": "painting.minecraft.afternoon.title",
+    "fallback": "afternoon.png"
   },
+  "height": 2,
   "width": 2
 }

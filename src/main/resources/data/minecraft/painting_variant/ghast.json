@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.ghast.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.ghast.title"
+    "translate": "painting.minecraft.ghast.title",
+    "fallback": "ghast.png"
   },
+  "height": 1,
   "width": 1
 }

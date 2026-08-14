@@ -14,9 +14,6 @@
   "painting.minecraft.axperty.title": "Axperty",
   "painting.minecraft.axperty.author": "Too Many Paintings!",
 
-  "painting.minecraft.beach.title": "Beach",
-  "painting.minecraft.beach.author": "Too Many Paintings!",
-
   "painting.minecraft.bee.title": "Bee",
   "painting.minecraft.bee.author": "Too Many Paintings!",
 
@@ -25,9 +22,6 @@
 
   "painting.minecraft.cafe.title": "Cafe",
   "painting.minecraft.cafe.author": "Too Many Paintings!",
-
-  "painting.minecraft.cherry_mountains.title": "Cherry Mountains",
-  "painting.minecraft.cherry_mountains.author": "Too Many Paintings!",
 
   "painting.minecraft.clocks.title": "Clocks",
   "painting.minecraft.clocks.author": "Too Many Paintings!",
@@ -44,8 +38,8 @@
   "painting.minecraft.drowned.title": "Drowned",
   "painting.minecraft.drowned.author": "Too Many Paintings!",
 
-  "painting.minecraft.earth.title": "Earth",
-  "painting.minecraft.earth.author": "Too Many Paintings!",
+  "painting.minecraft.earth_far_away.title": "Earth Far Away",
+  "painting.minecraft.earth_far_away.author": "Too Many Paintings!",
 
   "painting.minecraft.enderman.title": "Enderman",
   "painting.minecraft.enderman.author": "Too Many Paintings!",
@@ -55,9 +49,6 @@
 
   "painting.minecraft.frida.title": "Frida",
   "painting.minecraft.frida.author": "Too Many Paintings!",
-
-  "painting.minecraft.galaxy.title": "Galaxy",
-  "painting.minecraft.galaxy.author": "Too Many Paintings!",
 
   "painting.minecraft.ghast.title": "Ghast",
   "painting.minecraft.ghast.author": "Too Many Paintings!",
@@ -79,9 +70,6 @@
 
   "painting.minecraft.lovers.title": "Lovers",
   "painting.minecraft.lovers.author": "Too Many Paintings!",
-
-  "painting.minecraft.mountains.title": "Mountains",
-  "painting.minecraft.mountains.author": "Too Many Paintings!",
 
   "painting.minecraft.night.title": "Night",
   "painting.minecraft.night.author": "Too Many Paintings!",
@@ -152,42 +140,6 @@
   "painting.minecraft.zombie_pigman.title": "Zombie Pigman",
   "painting.minecraft.zombie_pigman.author": "Too Many Paintings!",
 
-  "painting.minecraft.lonely_tree.title": "Lonely Tree",
-  "painting.minecraft.lonely_tree.author": "Too Many Paintings!",
-
-  "painting.minecraft.cherry_tree.title": "Cherry Tree",
-  "painting.minecraft.cherry_tree.author": "Too Many Paintings!",
-
-  "painting.minecraft.waterfall.title": "Waterfall",
-  "painting.minecraft.waterfall.author": "Too Many Paintings!",
-
-  "painting.minecraft.cabin.title": "Cabin",
-  "painting.minecraft.cabin.author": "Too Many Paintings!",
-
-  "painting.minecraft.forest.title": "Forest",
-  "painting.minecraft.forest.author": "Too Many Paintings!",
-
-  "painting.minecraft.black_cat.title": "Black Cat",
-  "painting.minecraft.black_cat.author": "Too Many Paintings!",
-
-  "painting.minecraft.penguins.title": "Penguins",
-  "painting.minecraft.penguins.author": "Too Many Paintings!",
-
-  "painting.minecraft.red_flower.title": "Red Flower",
-  "painting.minecraft.red_flower.author": "Too Many Paintings!",
-
-  "painting.minecraft.river.title": "River",
-  "painting.minecraft.river.author": "Too Many Paintings!",
-
-  "painting.minecraft.castle.title": "Castle",
-  "painting.minecraft.castle.author": "Too Many Paintings!",
-
-  "painting.minecraft.a_boat.title": "A Boat",
-  "painting.minecraft.a_boat.author": "Too Many Paintings!",
-
-  "painting.minecraft.pyramid.title": "Pyramid",
-  "painting.minecraft.pyramid.author": "Too Many Paintings!",
-
   "painting.minecraft.renibond.title": "renibond",
   "painting.minecraft.renibond.author": "Too Many Paintings!",
 
@@ -198,5 +150,56 @@
   "painting.minecraft.karma.author": "Too Many Paintings!",
 
   "painting.minecraft.federico.title": "Federico",
-  "painting.minecraft.federico.author": "Too Many Paintings!"
+  "painting.minecraft.federico.author": "Too Many Paintings!",
+
+  "painting.minecraft.ancient_days.title": "Ancient Days",
+  "painting.minecraft.ancient_days.author": "Too Many Paintings!",
+
+  "painting.minecraft.arthemis.title": "Arthemis II",
+  "painting.minecraft.arthemis.author": "Too Many Paintings!",
+
+  "painting.minecraft.automat.title": "Automat",
+  "painting.minecraft.automat.author": "Too Many Paintings!",
+
+  "painting.minecraft.balcony.title": "Balcony",
+  "painting.minecraft.balcony.author": "Too Many Paintings!",
+
+  "painting.minecraft.desperate.title": "Desperate",
+  "painting.minecraft.desperate.author": "Too Many Paintings!",
+
+  "painting.minecraft.earth_rise.title": "Earth Rise",
+  "painting.minecraft.earth_rise.author": "Too Many Paintings!",
+
+  "painting.minecraft.false_mirror.title": "False Mirror",
+  "painting.minecraft.false_mirror.author": "Too Many Paintings!",
+
+  "painting.minecraft.garden.title": "Garden",
+  "painting.minecraft.garden.author": "Too Many Paintings!",
+
+  "painting.minecraft.meninas.title": "Meninas",
+  "painting.minecraft.meninas.author": "Too Many Paintings!",
+
+  "painting.minecraft.milkmaid.title": "Milkmaid",
+  "painting.minecraft.milkmaid.author": "Too Many Paintings!",
+
+  "painting.minecraft.morning.title": "Morning",
+  "painting.minecraft.morning.author": "Too Many Paintings!",
+
+  "painting.minecraft.narcissus.title": "Narcissus",
+  "painting.minecraft.narcissus.author": "Too Many Paintings!",
+
+  "painting.minecraft.not_reproduced.title": "Not Reproduced",
+  "painting.minecraft.not_reproduced.author": "Too Many Paintings!",
+
+  "painting.minecraft.piazza.title": "Piazza",
+  "painting.minecraft.piazza.author": "Too Many Paintings!",
+
+  "painting.minecraft.rider.title": "Rider",
+  "painting.minecraft.rider.author": "Too Many Paintings!",
+
+  "painting.minecraft.self_portrait.title": "Self Portrait",
+  "painting.minecraft.self_portrait.author": "Too Many Paintings!",
+
+  "painting.minecraft.swing.title": "Swing",
+  "painting.minecraft.swing.author": "Too Many Paintings!"
 }

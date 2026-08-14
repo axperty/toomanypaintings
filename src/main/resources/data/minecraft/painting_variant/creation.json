@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.creation.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.creation.title"
+    "translate": "painting.minecraft.creation.title",
+    "fallback": "creation.png"
   },
+  "height": 1,
   "width": 2
 }

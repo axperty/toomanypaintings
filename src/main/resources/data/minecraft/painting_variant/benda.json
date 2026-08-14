@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.benda.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.benda.title"
+    "translate": "painting.minecraft.benda.title",
+    "fallback": "benda.png"
   },
+  "height": 1,
   "width": 1
 }

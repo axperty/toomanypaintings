@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.villager.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.villager.title"
+    "translate": "painting.minecraft.villager.title",
+    "fallback": "villager.png"
   },
+  "height": 1,
   "width": 1
 }

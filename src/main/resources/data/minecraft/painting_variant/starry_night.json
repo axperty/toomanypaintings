@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.starry_night.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.starry_night.title"
+    "translate": "painting.minecraft.starry_night.title",
+    "fallback": "starry_night.png"
   },
+  "height": 1,
   "width": 2
 }

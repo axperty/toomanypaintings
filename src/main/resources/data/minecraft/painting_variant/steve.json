@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.steve.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.steve.title"
+    "translate": "painting.minecraft.steve.title",
+    "fallback": "steve.png"
   },
+  "height": 1,
   "width": 1
 }

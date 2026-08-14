@@ -4,10 +4,11 @@
     "color": "gray",
     "translate": "painting.minecraft.clocks.author"
   },
-  "height": 1,
   "title": {
     "color": "yellow",
-    "translate": "painting.minecraft.clocks.title"
+    "translate": "painting.minecraft.clocks.title",
+    "fallback": "clocks.png"
   },
+  "height": 1,
   "width": 2
 }
