@@ -7,7 +7,7 @@
   "title": {
     "color": "yellow",
     "translate": "painting.minecraft.earth_far_away.title",
-    "fallback": "earth.png"
+    "fallback": "earth_far_away.png"
   },
   "height": 2,
   "width": 2
