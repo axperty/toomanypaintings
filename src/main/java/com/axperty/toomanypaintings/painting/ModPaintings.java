@@ -20,7 +20,7 @@ public class ModPaintings {
     public static final PaintingVariant COW = registerPainting("cow", new PaintingVariant(16, 16));
     public static final PaintingVariant CREATION = registerPainting("creation", new PaintingVariant(32, 16));
     public static final PaintingVariant DROWNED = registerPainting("drowned", new PaintingVariant(16, 16));
-    public static final PaintingVariant EARTH = registerPainting("earth", new PaintingVariant(32, 32));
+    public static final PaintingVariant EARTH_FAR_AWAY = registerPainting("earth_far_away", new PaintingVariant(32, 32));
     public static final PaintingVariant ENDERMAN = registerPainting("enderman", new PaintingVariant(16, 16));
     public static final PaintingVariant FRENCH = registerPainting("french", new PaintingVariant(32, 16));
     public static final PaintingVariant GHAST = registerPainting("ghast", new PaintingVariant(16, 16));
