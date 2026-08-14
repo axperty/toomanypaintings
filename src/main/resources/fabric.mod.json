@@ -10,7 +10,7 @@
   "contact": {
     "homepage": "https://github.com/axperty/"
   },
-  "license": "ARR",
+  "license": "${mod_license}",
   "icon": "assets/minecraft/logo.png",
   "environment": "*",
   "depends": {
