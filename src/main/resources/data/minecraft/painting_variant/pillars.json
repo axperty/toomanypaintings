@@ -1,5 +1,14 @@
 {
   "asset_id": "minecraft:pillars",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.pillars.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.pillars.title",
+    "fallback": "pillars.png"
+  },
   "height": 2,
   "width": 2
 }

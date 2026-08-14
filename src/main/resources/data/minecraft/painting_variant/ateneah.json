@@ -1,5 +1,14 @@
 {
   "asset_id": "minecraft:ateneah",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.ateneah.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.ateneah.title",
+    "fallback": "ateneah.png"
+  },
   "height": 1,
   "width": 1
 }

@@ -1,5 +1,14 @@
 {
   "asset_id": "minecraft:ancient_days",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.ancient_days.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.ancient_days.title",
+    "fallback": "ancient_days.png"
+  },
   "height": 2,
   "width": 1
 }

@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:earth_far_away",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.earth_far_away.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.earth_far_away.title",
+    "fallback": "earth_far_away.png"
+  },
+  "height": 2,
+  "width": 2
+}

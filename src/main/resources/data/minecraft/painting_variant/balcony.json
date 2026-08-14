@@ -1,5 +1,14 @@
 {
   "asset_id": "minecraft:balcony",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.balcony.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.balcony.title",
+    "fallback": "balcony.png"
+  },
   "height": 2,
   "width": 2
 }

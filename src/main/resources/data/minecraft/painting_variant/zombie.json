@@ -1,5 +1,14 @@
 {
   "asset_id": "minecraft:zombie",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.zombie.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.zombie.title",
+    "fallback": "zombie.png"
+  },
   "height": 1,
   "width": 1
 }
