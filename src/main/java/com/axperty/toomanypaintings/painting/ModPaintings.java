@@ -2,9 +2,8 @@ package com.axperty.toomanypaintings.painting;
 
 import com.axperty.toomanypaintings.TooManyPaintings;
 import net.minecraft.entity.decoration.painting.PaintingVariant;
-import net.minecraft.registry.Registries;
-import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.registry.Registry;
 
 public class ModPaintings {
     public static final PaintingVariant AFTERNOON = registerPainting("afternoon", new PaintingVariant(32, 32));
@@ -12,7 +11,6 @@ public class ModPaintings {
     public static final PaintingVariant AMERICAN = registerPainting("american", new PaintingVariant(16, 32));
     public static final PaintingVariant ATENEAH = registerPainting("ateneah", new PaintingVariant(16, 16));
     public static final PaintingVariant AXPERTY = registerPainting("axperty", new PaintingVariant(16, 16));
-    public static final PaintingVariant BEACH = registerPainting("beach", new PaintingVariant(32, 32));
     public static final PaintingVariant BEE = registerPainting("bee", new PaintingVariant(16, 16));
     public static final PaintingVariant BENDA = registerPainting("benda", new PaintingVariant(16, 16));
     public static final PaintingVariant CAFE = registerPainting("cafe", new PaintingVariant(16, 32));
@@ -81,7 +79,7 @@ public class ModPaintings {
     public static final PaintingVariant SWING = registerPainting("swing", new PaintingVariant(16, 32));
 
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
-        return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
+        return Registry.register(Registry.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
     }
     public static void registerPaintings() {}
 }

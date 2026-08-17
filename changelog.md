@@ -5,23 +5,23 @@
 ### ✨ What's New:
 
 - The following new paintings have been added:
-  - Ancient Days
-  - Arthemis II
-  - Automat
-  - Balcony
-  - Desperate
-  - Earth Rise
-  - False Mirror
-  - Garden
-  - Meninas
-  - Milkmaid
-  - Morning
-  - Narcissus
-  - Not Reproduced
-  - Piazza
-  - Rider
-  - Self Portrait
-  - Swing
+    - Ancient Days
+    - Arthemis II
+    - Automat
+    - Balcony
+    - Desperate
+    - Earth Rise
+    - False Mirror
+    - Garden
+    - Meninas
+    - Milkmaid
+    - Morning
+    - Narcissus
+    - Not Reproduced
+    - Piazza
+    - Rider
+    - Self Portrait
+    - Swing
 
 - Changed Pillars painting with an old image that looks even better.
 
@@ -49,4 +49,4 @@ Paintings that were partially created using artificial intelligence tools are no
 
 ### ❤️ Support:
 
-- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via Feed the Kitty](https://axperty.netlify.app/).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via PayPal](https://paypal.me/kevgelhorn).
