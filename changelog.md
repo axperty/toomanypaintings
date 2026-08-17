@@ -1,4 +1,4 @@
-![Too Many Paintings](https://cdn.modrinth.com/data/T8Fpxcl7/images/b082e8bc447ae9e446948c356bbdedd7a2bea422.png)
+![Too Many Paintings!](https://cdn.modrinth.com/data/T8Fpxcl7/images/a32194caab66553b220ce455fa9f6d7d050fecb3.png)
 
 ***
 
@@ -23,30 +23,30 @@
   - Self Portrait
   - Swing
 
-- Changed Pillars painting with an old image that looks even better.
+- Improved Pillars painting.
+- Changed Earth painting name to Earth Far Away so it works with Minecraft's Earth painting (thanks, Z3R0X_7!)
 
 ### 🛠️ Other Changes:
 
-Paintings that were partially created using artificial intelligence tools are now removed. This mod will not include any artificially generated painting in the future.
-
-- A Boat
-- Beach
-- Black Cat
-- Cabin
-- Castle
-- Cherry Tree
-- Forest
-- Galaxy
-- Lonely Tree
-- Mountains
-- Penguins
-- Pyramid
-- Red Flower
-- River
-- Waterfall
+- The following paintings that were edited using artificial intelligence tools are now removed. This mod will not include any artificially generated painting in the future.
+  - A Boat
+  - Beach
+  - Black Cat
+  - Cabin
+  - Castle
+  - Cherry Tree
+  - Forest
+  - Galaxy
+  - Lonely Tree
+  - Mountains
+  - Penguins
+  - Pyramid
+  - Red Flower
+  - River
+  - Waterfall
 
 ***
 
 ### ❤️ Support:
 
-- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via Feed the Kitty](https://axperty.netlify.app/).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via PayPal](https://paypal.me/kevgelhorn/).
