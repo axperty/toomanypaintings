@@ -1,4 +1,4 @@
-![Too Many Paintings](https://cdn.modrinth.com/data/T8Fpxcl7/images/b082e8bc447ae9e446948c356bbdedd7a2bea422.png)
+             ![Too Many Paintings](https://cdn.modrinth.com/data/T8Fpxcl7/images/b082e8bc447ae9e446948c356bbdedd7a2bea422.png)
 
 ***
 
