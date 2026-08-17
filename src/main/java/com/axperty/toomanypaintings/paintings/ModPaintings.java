@@ -153,7 +153,6 @@ public class ModPaintings {
     public static final RegistryObject<PaintingVariant> SWING = PAINTING_VARIANTS.register("swing",
             () -> new PaintingVariant(16, 32));
 
-
     public static void register(IEventBus eventBus) {
         PAINTING_VARIANTS.register(eventBus);
     }
