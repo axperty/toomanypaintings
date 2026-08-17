@@ -82,7 +82,5 @@ public class ModPaintings {
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
         return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
     }
-    public static void registerPaintings() {
-        TooManyPaintings.LOGGER.debug("[TooManyPaintings!]: Paintings registered successfully!" + TooManyPaintings.MODID);
-    }
+    public static void registerPaintings() {}
 }
