@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:french",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.french.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.french.title",
+    "fallback": "french.png"
+  },
+  "height": 1,
+  "width": 2
+}

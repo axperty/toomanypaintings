@@ -16,19 +16,15 @@ java.toolchain.languageVersion = JavaLanguageVersion.of(21)
 
 println "Java: ${System.getProperty 'java.version'}, JVM: ${System.getProperty 'java.vm.version'} (${System.getProperty 'java.vendor'}), Arch: ${System.getProperty 'os.arch'}"
 minecraft {
-
     mappings channel: mapping_channel, version: mapping_version
 
     reobf = false
-
     copyIdeResources = true
 
     runs {
         configureEach {
             workingDirectory project.file('run')
-
             property 'forge.logging.markers', 'REGISTRIES'
-
             property 'forge.logging.console.level', 'debug'
         }
 
@@ -47,7 +43,6 @@ minecraft {
 
         data {
             workingDirectory project.file('run-data')
-
             args '--mod', mod_id, '--all', '--output', file('src/generated/resources/'), '--existing', file('src/main/resources/')
         }
     }

@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:axperty",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.axperty.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.axperty.title",
+    "fallback": "axperty.png"
+  },
+  "height": 1,
+  "width": 1
+}

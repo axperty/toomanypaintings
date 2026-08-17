@@ -49,4 +49,4 @@ Paintings that were partially created using artificial intelligence tools are no
 
 ### ❤️ Support:
 
-- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via PayPal](https://paypal.me/kevgelhorn).
+- Support this mod by [creating your own server](https://url-shortener.curseforge.com/voMOm) or [donating via Feed the Kitty](https://axperty.netlify.app/).

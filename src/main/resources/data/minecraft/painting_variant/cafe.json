@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:cafe",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.cafe.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.cafe.title",
+    "fallback": "pack.png"
+  },
+  "height": 2,
+  "width": 1
+}

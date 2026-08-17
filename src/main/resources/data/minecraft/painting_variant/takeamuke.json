@@ -1,0 +1,14 @@
+{
+  "asset_id": "minecraft:takeamuke",
+  "author": {
+    "color": "gray",
+    "translate": "painting.minecraft.takeamuke.author"
+  },
+  "title": {
+    "color": "yellow",
+    "translate": "painting.minecraft.takeamuke.title",
+    "fallback": "takeamuke.png"
+  },
+  "height": 1,
+  "width": 1
+}
