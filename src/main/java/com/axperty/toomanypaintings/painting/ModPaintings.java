@@ -2,8 +2,9 @@ package com.axperty.toomanypaintings.painting;
 
 import com.axperty.toomanypaintings.TooManyPaintings;
 import net.minecraft.entity.decoration.painting.PaintingVariant;
+import net.minecraft.registry.Registries;
+import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
-import net.minecraft.util.registry.Registry;
 
 public class ModPaintings {
     public static final PaintingVariant AFTERNOON = registerPainting("afternoon", new PaintingVariant(32, 32));
@@ -79,7 +80,9 @@ public class ModPaintings {
     public static final PaintingVariant SWING = registerPainting("swing", new PaintingVariant(16, 32));
 
     private static PaintingVariant registerPainting(String name, PaintingVariant paintingVariant) {
-        return Registry.register(Registry.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
+        return Registry.register(Registries.PAINTING_VARIANT, new Identifier(TooManyPaintings.MODID, name), paintingVariant);
     }
-    public static void registerPaintings() {}
+    public static void registerPaintings() {
+        TooManyPaintings.LOGGER.debug("[TooManyPaintings!]: Paintings registered successfully!" + TooManyPaintings.MODID);
+    }
 }
